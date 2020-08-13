@@ -1,1 +1,2 @@
 Prueba Develop
+Se revisa Bug de la pantalla reame
