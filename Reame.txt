@@ -1,3 +1,4 @@
 Prueba Develop
 Se revisa Bug de la pantalla reame
 se abre pueba de bug
+se agre buevo bug
